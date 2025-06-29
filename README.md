@@ -40,7 +40,7 @@ This project was developed as part of my full-stack learning journey, focusing o
 
 ## 🎥 Demo Video
 
-Watch the full demo here: [https://youtu.be/pgZchfdK_R0](https://youtu.be/pgZchfdK_R0)
+Watch the full demo here: [https://www.linkedin.com/posts/meenakshi-j-a3559b2b3_vibevault-codewithpersonality-melophileglowup-activity-7321225251348996097-MxEB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtfFQkBD80-PePJIc0CUUExzcNn1z5RFtY]
 
 
 
